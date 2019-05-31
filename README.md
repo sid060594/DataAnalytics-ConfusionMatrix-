@@ -1,4 +1,4 @@
-# DataAnalytics-ConfusionMatrix-
+# DataAnalytics-ConfusionMatrix
 
 Exercise
 
